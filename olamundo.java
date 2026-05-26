@@ -1,5 +1,5 @@
 public class olamundo {
     public static void main(String[] args) {
-        System.out.println("Olá, Pessoas!");
+        System.out.println("Olá, Pessoas do Mundo!");
     }
 }

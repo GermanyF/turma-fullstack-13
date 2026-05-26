@@ -1,5 +1,8 @@
 public class olamundo {
     public static void main(String[] args) {
-        System.out.println("Olá, Pessoas do Mundo!");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite o seu nome: ");
+        String nome = sc.nextLine();
+        System.out.println("Olá, " + nome + "!");
     }
 }
